@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 
 // comment added to this
+//changed
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
